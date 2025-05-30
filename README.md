@@ -1,0 +1,1 @@
+"# Offline-Shop-Location-Analyzer" 
